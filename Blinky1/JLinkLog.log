@@ -1,0 +1,18 @@
+T5DC4 000:026.675   SEGGER J-Link V7.84d Log File
+T5DC4 000:026.861   DLL Compiled: Jan 25 2023 15:51:00
+T5DC4 000:026.882   Logging started @ 2025-02-06 20:15
+T5DC4 000:026.902 - 26.913ms
+T5DC4 000:026.943 JLINK_GetDLLVersion()
+T5DC4 000:026.964 - 0.029ms returns 78404
+T5DC4 000:027.722 JLINK_OpenEx(...)
+T5DC4 000:032.549   Looking for J-Link GUI Server exe at: C:\Users\User\.eclipse\com.renesas.platform_510646852\DebugComp\Synergy\ARM\Segger\JLinkGUIServer.exe
+T5DC4 000:032.681   Looking for J-Link GUI Server exe at: \JLinkGUIServer.exe
+T5DC4 000:336.621   Failed to connect to J-Link GUI Server.
+T5DC4 418629:843.416   
+  ***** Error: 
+T5DC4 418629:843.989   Cannot connect to J-Link.
+T5DC4 418629:879.935 - 418629852.491ms returns "Cannot connect to J-Link."
+T0F70 418630:141.848 JLINK_Close()
+T0F70 418630:143.118 - 1.307ms
+T0F70 418630:143.451   
+T0F70 418630:143.481   Closed

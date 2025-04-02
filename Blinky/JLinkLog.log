@@ -1,0 +1,18 @@
+T74CC 000:000.726   SEGGER J-Link V7.84d Log File
+T74CC 000:000.856   DLL Compiled: Jan 25 2023 15:51:00
+T74CC 000:000.862   Logging started @ 2025-02-14 17:44
+T74CC 000:000.867 - 0.870ms
+T74CC 000:000.902 JLINK_GetDLLVersion()
+T74CC 000:000.909 - 0.010ms returns 78404
+T74CC 000:008.989 JLINK_OpenEx(...)
+T74CC 466:678.020   Out of sync , resynchronizing...
+T74CC 466:678.825   Out of sync , resynchronizing...
+T74CC 466:679.286   Out of sync , resynchronizing...
+T74CC 466:679.399   
+  ***** Error: 
+T74CC 466:679.421   Cannot connect to J-Link
+T74CC 466:695.147 - 466686.178ms returns "Cannot connect to J-Link"
+T6394 466:977.107 JLINK_Close()
+T6394 466:985.581 - 8.488ms
+T6394 466:985.600   
+T6394 466:985.605   Closed
